@@ -1,8 +1,12 @@
-# React + Vite
+# Your-Logo 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple website created in order to understand React Router.
 
-Currently, two official plugins are available:
+## Key Understandings
+* Client Side Routing
+* dynamic segments
+* Nested Routes
+* Active Links
+* Data Loading
+* Data Fetching
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
